@@ -1,6 +1,6 @@
-Django==2.2.5
+Django==4.2.22
 python-decouple==3.3
 https://download.pytorch.org/whl/cpu/torch-1.5.1%2Bcpu-cp38-cp38-linux_x86_64.whl
-numpy==1.18.5
+numpy==2.0.2
 torchvision==0.6.1
-Pillow==7.2.0
+Pillow==10.3.0
