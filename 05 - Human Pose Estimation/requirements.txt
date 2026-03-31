@@ -4,7 +4,7 @@ scipy
 pyyaml
 json_tricks
 scikit-image
-torch==1.5.1
+torch==2.8.0
 torchvision==0.6.0
-onnx==1.7.0
+onnx==1.21.0rc1
 onnxruntime==1.4.0
