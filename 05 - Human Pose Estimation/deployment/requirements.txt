@@ -1,7 +1,7 @@
-onnx==1.7.0
+onnx==1.21.0
 onnxruntime==1.4.0
-numpy==1.18.5
-Pillow==7.2.0
+numpy==2.4.4
+Pillow==12.1.1
 albumentations==0.4.5
 opencv-python-headless
 requests_toolbelt
